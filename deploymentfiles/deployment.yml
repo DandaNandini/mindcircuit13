@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: mc-app
-        image: nandinidocker123/devopsdeskrepo:xyz
+        image: nandinidocker123/devopsdeskrepo:19
         ports:
         - containerPort: 8080
 
